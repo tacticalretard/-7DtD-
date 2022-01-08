@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="AttCondenser"/>
+		<Description value="Condenses all in-game skills into a single attribute category (attPerception) to free up tab space for other attribute-adding mods."/>
+		<Author value="Vindicator"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>

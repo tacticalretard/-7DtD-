@@ -1,0 +1,8 @@
+<configs>
+    
+	<set xpath="/progression/skills/skill[not(contains(@parent, 'attBook'))]/@parent">attPerception</set>
+	<remove xpath="/progression/attributes/attribute[@name='attStrength']"/>
+	<remove xpath="/progression/attributes/attribute[@name='attFortitude']"/>
+	<remove xpath="/progression/attributes/attribute[@name='attAgility']"/>
+	<remove xpath="/progression/attributes/attribute[@name='attIntellect']"/>
+</configs>
